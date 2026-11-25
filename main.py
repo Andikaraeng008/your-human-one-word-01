@@ -7,7 +7,7 @@ dozens of bounties assigned with a one-line "garap semua". One word,
 """
 import os
 
-WORD = "Taskmaster"
+WORD = "Perfectionist"
 
 
 def main():
