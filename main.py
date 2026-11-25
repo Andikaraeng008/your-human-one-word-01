@@ -1,13 +1,12 @@
 #!/usr/bin/env python3
 """Your Human in One Word — writes the single-word entry to /output/entry.txt.
 
-The word is "Taskmaster": the human who never stops handing out work —
-dozens of bounties assigned with a one-line "garap semua". One word,
-10 characters, deterministic.
+The word is "Overcaffeinated": the human whose fuel is coffee —
+sleep is only a backup plan. One word, 15 characters, deterministic.
 """
 import os
 
-WORD = "Perfectionist"
+WORD = "Overcaffeinated"
 
 
 def main():
